@@ -1,0 +1,28 @@
+307198de8eef462c98224fa3955b7abe
+
+<Switch>
+    <Route path="/">
+        <News country="in" category="general" />
+    </Route>
+
+    <Route path="/health">
+        <News country="in" category="health" />
+    </Route>
+
+    <Route path="/science">
+        <News country="in" category="science" />
+    </Route>
+
+    <Route path="/sports">
+        <News country="in" category="sports" />
+    </Route>
+
+    <Route path="/technology">
+        <News country="in" category="technology" />
+    </Route>
+
+
+    <Route path="/business">
+        <News country="in" category="business" />
+    </Route>
+</Switch>
